@@ -1,0 +1,19 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Final Project Noah", "Final Project Noah.csproj", "{AD471AB9-9446-4791-AD58-50229E6125B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+	Debug|Any CPU = Debug|Any CPU
+	ExportDebug|Any CPU = ExportDebug|Any CPU
+	ExportRelease|Any CPU = ExportRelease|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD471AB9-9446-4791-AD58-50229E6125B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD471AB9-9446-4791-AD58-50229E6125B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD471AB9-9446-4791-AD58-50229E6125B6}.ExportDebug|Any CPU.ActiveCfg = ExportDebug|Any CPU
+		{AD471AB9-9446-4791-AD58-50229E6125B6}.ExportDebug|Any CPU.Build.0 = ExportDebug|Any CPU
+		{AD471AB9-9446-4791-AD58-50229E6125B6}.ExportRelease|Any CPU.ActiveCfg = ExportRelease|Any CPU
+		{AD471AB9-9446-4791-AD58-50229E6125B6}.ExportRelease|Any CPU.Build.0 = ExportRelease|Any CPU
+	EndGlobalSection
+EndGlobal
